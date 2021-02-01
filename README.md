@@ -3,4 +3,4 @@
 
 Curated workspace in pursuit of creating a food image classifier that generates accurate nutritional information of provided food images.
 
-https://caiwending.cse.uconn.edu/person/aditya-kulkarni/
+https://caiwending.cse.uconn.edu/person/aditya-kulkarni/ 
