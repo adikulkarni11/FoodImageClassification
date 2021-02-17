@@ -1,0 +1,1832 @@
+﻿{
+  "is_food": true,
+  "_timing": {
+    "foodai_totaltime": 0.083646,
+    "foodai_classificationtime": 0.072897,
+    "proxy_foodairequesttime": 0.10900020599365234
+  },
+  "lang": "en_US",
+  "results": [
+    {
+      "items": [
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving, small",
+              "servingWeight": 0.071
+            },
+            {
+              "unit": "1 serving, medium",
+              "servingWeight": 0.117
+            },
+            {
+              "unit": "1 serving, large",
+              "servingWeight": 0.154
+            },
+            {
+              "unit": "1 serving, kids",
+              "servingWeight": 0.031
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 87,
+          "nutrition": {
+            "totalCarbs": 0.42579999999999996,
+            "totalFat": 0.1547,
+            "protein": 0.0341,
+            "calories": 3230
+          },
+          "name": "French Fries",
+          "food_id": "d8241de3e2c7d60d",
+          "group": "French Fries"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving, medium"
+            }
+          ],
+          "score": 66,
+          "nutrition": {
+            "totalCarbs": 0.0068,
+            "totalFat": 0.0025,
+            "protein": 0.0005,
+            "calories": 51
+          },
+          "name": "Sweet Potato Fries",
+          "food_id": "827f8667b4d1b2b9",
+          "group": "French Fries"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving",
+              "servingWeight": 0.17
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 44,
+          "nutrition": {
+            "totalCarbs": 0.36470588239999996,
+            "totalFat": 0.1705882353,
+            "protein": 0.03529411765,
+            "calories": 3176.470588
+          },
+          "name": "Curly Fries",
+          "food_id": "0bcec5ec0724a851",
+          "group": "French Fries"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving"
+            }
+          ],
+          "score": 44,
+          "nutrition": {
+            "totalCarbs": 0.062,
+            "totalFat": 0.029,
+            "protein": 0.012,
+            "calories": 560
+          },
+          "name": "Garlic Fries",
+          "food_id": "da5aa81ac2642bbe",
+          "group": "French Fries"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving, small",
+              "servingWeight": 0.071
+            },
+            {
+              "unit": "1 serving, medium",
+              "servingWeight": 0.117
+            },
+            {
+              "unit": "1 serving, large",
+              "servingWeight": 0.154
+            },
+            {
+              "unit": "1 serving, kids",
+              "servingWeight": 0.031
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.42579999999999996,
+            "totalFat": 0.1547,
+            "protein": 0.0341,
+            "calories": 3230
+          },
+          "name": "French Fries, Fried",
+          "food_id": "71419a72510c3ab2",
+          "generic": true,
+          "group": "French Fries"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.05673758865
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.30269999999999997,
+            "totalFat": 0.052199999999999996,
+            "protein": 0.026600000000000002,
+            "calories": 1410
+          },
+          "name": "French Fries, Baked",
+          "food_id": "9f4084679e4c4f9b",
+          "generic": true,
+          "group": "French Fries"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving",
+              "servingWeight": 0.198
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2575757576,
+            "totalFat": 0.09595959596,
+            "protein": 0.011267605629999998,
+            "calories": 2020.2020200000002
+          },
+          "name": "French Fries (w/ chili and cheese)",
+          "food_id": "e5184e592a3e9623",
+          "generic": true,
+          "group": "French Fries"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving",
+              "servingWeight": 0.142
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.33,
+            "totalFat": 0.11,
+            "protein": 0.03,
+            "calories": 2460
+          },
+          "name": "French Fries (w/ cheese)",
+          "food_id": "f56e1a4bf2e6d172",
+          "generic": true,
+          "group": "French Fries"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving, small",
+              "servingWeight": 0.071
+            },
+            {
+              "unit": "1 serving, medium",
+              "servingWeight": 0.117
+            },
+            {
+              "unit": "1 serving, large",
+              "servingWeight": 0.154
+            },
+            {
+              "unit": "1 serving, kids",
+              "servingWeight": 0.031
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.25789999999999996,
+            "totalFat": 0.09384999999999999,
+            "protein": 0.06705,
+            "calories": 2120
+          },
+          "name": "French Fries (w/ chili)",
+          "food_id": "217a758beb35402b",
+          "generic": true,
+          "group": "French Fries"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving, small",
+              "servingWeight": 0.071
+            },
+            {
+              "unit": "1 serving, medium",
+              "servingWeight": 0.117
+            },
+            {
+              "unit": "1 serving, large",
+              "servingWeight": 0.154
+            },
+            {
+              "unit": "1 serving, kids",
+              "servingWeight": 0.031
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.30504912659999994,
+            "totalFat": 0.1537936681,
+            "protein": 0.03835971616000001,
+            "calories": 2734.170306
+          },
+          "name": "French Fries (w/ gravy and cheese)",
+          "food_id": "15e7efefa8ea0c6f",
+          "generic": true,
+          "group": "French Fries"
+        }
+      ],
+      "group": "French Fries"
+    },
+    {
+      "items": [
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.137
+            }
+          ],
+          "score": 76,
+          "nutrition": {
+            "totalCarbs": 0.32,
+            "totalFat": 0.23,
+            "protein": 0.23,
+            "calories": 4260
+          },
+          "name": "Beef Burger",
+          "food_id": "9a8782437d8c04b0",
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.362
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 47,
+          "nutrition": {
+            "totalCarbs": 0.03038674033,
+            "totalFat": 0.10773480660000001,
+            "protein": 0.09116022099,
+            "calories": 1436.464088
+          },
+          "name": "Protein Style Burger",
+          "food_id": "bd3f00c16cd434b6",
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich"
+            }
+          ],
+          "score": 46,
+          "nutrition": {
+            "totalCarbs": 0.044,
+            "totalFat": 0.007,
+            "protein": 0.037,
+            "calories": 380
+          },
+          "name": "Grilled Chicken Burger",
+          "food_id": "7389001311801281",
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.10583
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.3231,
+            "totalFat": 0.0922,
+            "protein": 0.11619999999999998,
+            "calories": 2570
+          },
+          "name": "Burger (any kind)",
+          "food_id": "bf752a00d97488c5",
+          "generic": true,
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.10584
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.3231,
+            "totalFat": 0.0922,
+            "protein": 0.11619999999999998,
+            "calories": 2570
+          },
+          "name": "Burger (beef)",
+          "food_id": "62e644f274c4428a",
+          "generic": true,
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.21492
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.24,
+            "totalFat": 0.14,
+            "protein": 0.17,
+            "calories": 2950
+          },
+          "name": "Burger (w/ 2 beef patties)",
+          "food_id": "64673f09be667c4c",
+          "generic": true,
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.11302
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2348,
+            "totalFat": 0.12519999999999998,
+            "protein": 0.1412,
+            "calories": 2610
+          },
+          "name": "Burger (beef patty w/ cheese)",
+          "food_id": "c87ac9399b3706c2",
+          "generic": true,
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.16613
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.21,
+            "totalFat": 0.17,
+            "protein": 0.17,
+            "calories": 3080
+          },
+          "name": "Burger (w/ 2 beef patties and cheese)",
+          "food_id": "4acf010fa5f2b4dd",
+          "generic": true,
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.10897
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.15460000000000002,
+            "totalFat": 0.11810000000000001,
+            "protein": 0.13169999999999998,
+            "calories": 2230
+          },
+          "name": "Burger (chicken)",
+          "food_id": "30824c6cec8fd358",
+          "generic": true,
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.113
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.017699115039999998,
+            "totalFat": 0.0796460177,
+            "protein": 0.1769911504,
+            "calories": 1504.424779
+          },
+          "name": "Burger (salmon)",
+          "food_id": "f3d6c7bc4e5ead28",
+          "generic": true,
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.13986
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2747,
+            "totalFat": 0.1357,
+            "protein": 0.12840000000000001,
+            "calories": 2860
+          },
+          "name": "Burger (fish)",
+          "food_id": "453d82bb5b2b057e",
+          "generic": true,
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.07005
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.1427,
+            "totalFat": 0.063,
+            "protein": 0.157,
+            "calories": 1770
+          },
+          "name": "Burger (veggie)",
+          "food_id": "5fea760e498413a0",
+          "generic": true,
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger"
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.017,
+            "totalFat": 0.0025,
+            "protein": 0.004,
+            "calories": 100
+          },
+          "name": "Burger (mushroom)",
+          "food_id": "45851e1e7f0b5623",
+          "generic": true,
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.078
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.16666666670000002,
+            "totalFat": 0.051282051280000004,
+            "protein": 0.1282051282,
+            "calories": 1410.25641
+          },
+          "name": "Burger (black bean)",
+          "food_id": "10c33747e5453bcc",
+          "generic": true,
+          "group": "Burger"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 burger",
+              "servingWeight": 0.099
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.09090909091,
+            "totalFat": 0.0101010101,
+            "protein": 0.19191919189999998,
+            "calories": 1010.1010100000001
+          },
+          "name": "Burger (soy)",
+          "food_id": "507bb10cba1266d5",
+          "generic": true,
+          "group": "Burger"
+        }
+      ],
+      "group": "Burger"
+    },
+    {
+      "items": [
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving"
+            }
+          ],
+          "score": 69,
+          "nutrition": {
+            "totalCarbs": 0.048,
+            "totalFat": 0.015,
+            "protein": 0.027,
+            "calories": 430
+          },
+          "name": "Pulled Pork Sandwich",
+          "food_id": "1c5296a7e36523d1",
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving",
+              "servingWeight": 0.225
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 60,
+          "nutrition": {
+            "totalCarbs": 0.17777777780000004,
+            "totalFat": 0.09777777778,
+            "protein": 0.06666666667,
+            "calories": 1866.666667
+          },
+          "name": "Blt Sandwich",
+          "food_id": "a29787eb9ae9f40d",
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.308
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 54,
+          "nutrition": {
+            "totalCarbs": 0.2012987013,
+            "totalFat": 0.0974025974,
+            "protein": 0.1038961039,
+            "calories": 2077.922078
+          },
+          "name": "Reuben Sandwich",
+          "food_id": "a52d0d5ac394ab88",
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.230941704
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 42,
+          "nutrition": {
+            "totalCarbs": 0.49,
+            "totalFat": 0.205,
+            "protein": 0.307,
+            "calories": 5100
+          },
+          "name": "Club Sandwich",
+          "food_id": "490e60d20108d659",
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.08289
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.32880000000000004,
+            "totalFat": 0.1456,
+            "protein": 0.0975,
+            "calories": 3040
+          },
+          "name": "Sandwich (any kind)",
+          "food_id": "6016078b37bb353f",
+          "generic": true,
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.14304
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.18430000000000002,
+            "totalFat": 0.07840000000000001,
+            "protein": 0.201,
+            "calories": 2300
+          },
+          "name": "Sandwich (turkey/chicken w/ spread)",
+          "food_id": "2e5637ade2e4b174",
+          "generic": true,
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.17583000000000001
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.25780000000000003,
+            "totalFat": 0.10230000000000002,
+            "protein": 0.18309999999999998,
+            "calories": 2690
+          },
+          "name": "Sandwich (roast beef w/ cheese",
+          "food_id": "53b43068d71365e0",
+          "generic": true,
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.11198000000000001
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2488,
+            "totalFat": 0.1035,
+            "protein": 0.1165,
+            "calories": 2420
+          },
+          "name": "Sandwich (ham w/ spread)",
+          "food_id": "6b0643511893be70",
+          "generic": true,
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.08285
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.3325,
+            "totalFat": 0.1527,
+            "protein": 0.1096,
+            "calories": 3150
+          },
+          "name": "Sandwich (cheese w/ spread)",
+          "food_id": "959d582296b05c9d",
+          "generic": true,
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.11089
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.264,
+            "totalFat": 0.1743,
+            "protein": 0.1204,
+            "calories": 3120
+          },
+          "name": "Sandwich (bologna w/ cheese and spread)",
+          "food_id": "a957d8e4cf8c1a2e",
+          "generic": true,
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.13986
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2747,
+            "totalFat": 0.1357,
+            "protein": 0.12840000000000001,
+            "calories": 2860
+          },
+          "name": "Sandwich (fish w/ spread on bun)",
+          "food_id": "6c60f92ebccc43b2",
+          "generic": true,
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.09289
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.45409999999999995,
+            "totalFat": 0.153,
+            "protein": 0.111,
+            "calories": 3520
+          },
+          "name": "Sandwich (peanut butter and jelly)",
+          "food_id": "7eaa395ef76ff251",
+          "generic": true,
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.14605
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2284,
+            "totalFat": 0.106,
+            "protein": 0.1417,
+            "calories": 2410
+          },
+          "name": "Sandwich (ham and cheese)",
+          "food_id": "0e6b6071fbf60545",
+          "generic": true,
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.15683000000000002
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.23170000000000002,
+            "totalFat": 0.045700000000000005,
+            "protein": 0.1211,
+            "calories": 1830
+          },
+          "name": "Sandwich (tuna salad)",
+          "food_id": "ae2ae73bd88a66ba",
+          "generic": true,
+          "group": "Sandwich"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 sandwich",
+              "servingWeight": 0.08286
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.3356,
+            "totalFat": 0.19,
+            "protein": 0.1104,
+            "calories": 3500
+          },
+          "name": "Sandwich (grilled cheese)",
+          "food_id": "7e3b748ce96e7609",
+          "generic": true,
+          "group": "Sandwich"
+        }
+      ],
+      "group": "Sandwich"
+    },
+    {
+      "items": [
+        {
+          "servingSizes": [
+            {
+              "unit": "1 serving",
+              "servingWeight": 0.108
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 65,
+          "nutrition": {
+            "totalCarbs": 0.32407407409999994,
+            "totalFat": 0.1388888889,
+            "protein": 0.03703703704,
+            "calories": 2685.1851850000003
+          },
+          "name": "Potato Wedges",
+          "food_id": "4f88656c0091fc7a",
+          "group": "Potato"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 potato (3\" to 4-1/4\" dia)",
+              "servingWeight": 0.369
+            },
+            {
+              "unit": "1 potato (2-1/4\" to 3-1/4\" dia)",
+              "servingWeight": 0.213
+            },
+            {
+              "unit": "1 potato (1-3/4\" to 2-1/2\" dia)",
+              "servingWeight": 0.17
+            },
+            {
+              "unit": "0.5 cup, diced",
+              "servingWeight": 0.075
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.1747,
+            "totalFat": 0.0008999999999999999,
+            "protein": 0.0202,
+            "calories": 770
+          },
+          "name": "Potato (any kind)",
+          "food_id": "3f3cda6a01759b58",
+          "generic": true,
+          "group": "Potato"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 potato (3\" to 4-1/4\" dia)",
+              "servingWeight": 0.369
+            },
+            {
+              "unit": "1 potato (2-1/4\" to 3-1/4\" dia)",
+              "servingWeight": 0.213
+            },
+            {
+              "unit": "1 potato (1-3/4\" to 2-1/2\" dia)",
+              "servingWeight": 0.17
+            },
+            {
+              "unit": "0.5 cup, diced",
+              "servingWeight": 0.075
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.1747,
+            "totalFat": 0.0008999999999999999,
+            "protein": 0.0202,
+            "calories": 770
+          },
+          "name": "Potato, Raw",
+          "food_id": "b678372b22398393",
+          "generic": true,
+          "group": "Potato"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.156
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2,
+            "protein": 0.02,
+            "calories": 870
+          },
+          "name": "Potato, Steamed",
+          "food_id": "b9a029b88705dd72",
+          "generic": true,
+          "group": "Potato"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.156
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2,
+            "protein": 0.02,
+            "calories": 870
+          },
+          "name": "Potato, Mashed",
+          "food_id": "c8834bc69dc49cc1",
+          "generic": true,
+          "group": "Potato"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 large",
+              "servingWeight": 0.299
+            },
+            {
+              "unit": "1 medium",
+              "servingWeight": 0.173
+            },
+            {
+              "unit": "1 small",
+              "servingWeight": 0.138
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2053,
+            "totalFat": 0.022,
+            "protein": 0.024300000000000002,
+            "calories": 1090
+          },
+          "name": "Potato, Baked (skin eaten)",
+          "food_id": "f7cd84a4e59a4685",
+          "generic": true,
+          "group": "Potato"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.19440000000000002
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2205,
+            "totalFat": 0.0325,
+            "protein": 0.0241,
+            "calories": 1250
+          },
+          "name": "Potato, Fried",
+          "food_id": "0dbe108e661984ad",
+          "generic": true,
+          "group": "Potato"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.1268456376
+            },
+            {
+              "unit": "1 small",
+              "servingWeight": 0.1100671141
+            },
+            {
+              "unit": "1 medium",
+              "servingWeight": 0.1362416107
+            },
+            {
+              "unit": "1 large",
+              "servingWeight": 0.2322147651
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.206,
+            "totalFat": 0.07,
+            "protein": 0.0232,
+            "calories": 1490
+          },
+          "name": "Potato, Roasted",
+          "food_id": "e51cacd481a8e192",
+          "generic": true,
+          "group": "Potato"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.127173913
+            },
+            {
+              "unit": "1 small",
+              "servingWeight": 0.1054347826
+            },
+            {
+              "unit": "1 medium",
+              "servingWeight": 0.13152173909999998
+            },
+            {
+              "unit": "1 large",
+              "servingWeight": 0.227173913
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2139,
+            "totalFat": 0.001,
+            "protein": 0.0195,
+            "calories": 920
+          },
+          "name": "Potato, Baked (skin not eaten)",
+          "food_id": "d34f3bfb521610b4",
+          "generic": true,
+          "group": "Potato"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.245
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.10779999999999999,
+            "totalFat": 0.036800000000000006,
+            "protein": 0.028700000000000003,
+            "calories": 880
+          },
+          "name": "Potato (scalloped)",
+          "food_id": "4d0100c036eb347d",
+          "generic": true,
+          "group": "Potato"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 large",
+              "servingWeight": 0.299
+            },
+            {
+              "unit": "1 medium",
+              "servingWeight": 0.173
+            },
+            {
+              "unit": "1 small",
+              "servingWeight": 0.138
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.195486574,
+            "totalFat": 0.05960769377,
+            "protein": 0.02351932965,
+            "calories": 1380.6893919999998
+          },
+          "name": "Potato, Cooked (w/ butter)",
+          "food_id": "a5620bf25d567f8d",
+          "generic": true,
+          "group": "Potato"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 large",
+              "servingWeight": 0.299
+            },
+            {
+              "unit": "1 medium",
+              "servingWeight": 0.173
+            },
+            {
+              "unit": "1 small",
+              "servingWeight": 0.138
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.2053,
+            "totalFat": 0.022,
+            "protein": 0.024300000000000002,
+            "calories": 1090
+          },
+          "name": "Potato, Cooked (w/o butter)",
+          "food_id": "06b473c28c2c8ae1",
+          "generic": true,
+          "group": "Potato"
+        }
+      ],
+      "group": "Potato"
+    },
+    {
+      "items": [
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.226
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 44,
+          "nutrition": {
+            "totalCarbs": 0.07079646017999999,
+            "totalFat": 0.008849557519999999,
+            "protein": 0.02212389381,
+            "calories": 442.4778761
+          },
+          "name": "Tomato Soup",
+          "food_id": "71aea11734eb6b67",
+          "group": "Soup"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.242
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.038799999999999994,
+            "totalFat": 0.010199999999999999,
+            "protein": 0.016800000000000002,
+            "calories": 310
+          },
+          "name": "Soup (any kind)",
+          "food_id": "351c6656fe8b039d",
+          "generic": true,
+          "group": "Soup"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.242
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.074,
+            "totalFat": 0.0239,
+            "protein": 0.0318,
+            "calories": 650
+          },
+          "name": "Soup (w/ meat)",
+          "food_id": "a8929f676fdea08c",
+          "generic": true,
+          "group": "Soup"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.242
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.0792,
+            "totalFat": 0.0154,
+            "protein": 0.0146,
+            "calories": 510
+          },
+          "name": "Soup (w/ vegetable)",
+          "food_id": "0f25f60ed4e56c19",
+          "generic": true,
+          "group": "Soup"
+        },
+        {
+          "servingSizes": [
+            {
+              "unit": "1 cup",
+              "servingWeight": 0.242
+            },
+            {
+              "unit": "100 g",
+              "servingWeight": 0.1
+            },
+            {
+              "unit": "1 g",
+              "servingWeight": 0.001
+            },
+            {
+              "unit": "1 oz",
+              "servingWeight": 0.0283495
+            }
+          ],
+          "score": 1,
+          "nutrition": {
+            "totalCarbs": 0.0718,
+            "totalFat": 0.018400000000000003,
+            "protein": 0.0464,
+            "calories": 640
+          },
+          "name": "Soup (w/ meat and vegetable)",
+          "food_id": "2cc4b147b340b71d",
+          "generic": true,
+          "group": "Soup"
+        }
+      ],
+      "group": "Soup"
+    }
+  ],
+  "imagecache_id": "imgRecognitionImg_ce88084645494856810d8d65dd947d24_bc742822e8107cab21a1e4a840cca0a90d866363_jpeg"
+}
