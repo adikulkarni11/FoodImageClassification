@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 
+# Unfinished.
 # The file allows me to run the Calorie Mama API on food images in a main directory and sub directories. Additionally, it stores the output I want in an excel sheet.
 
 # Gathering all required data
