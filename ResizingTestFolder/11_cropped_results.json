@@ -1,0 +1,3572 @@
+{
+   "is_food":true,
+   "_timing":{
+      "foodai_totaltime":0.473459,
+      "foodai_classificationtime":0.462501,
+      "proxy_foodairequesttime":0.5699999332427979
+   },
+   "lang":"en_US",
+   "results":[
+      {
+         "items":[
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup (9 pieces)",
+                     "servingWeight":0.086
+                  },
+                  {
+                     "unit":"1 piece",
+                     "servingWeight":0.009555555556
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":64,
+               "nutrition":{
+                  "totalCarbs":0.2325581395,
+                  "totalFat":0.09302325581,
+                  "protein":0.02325581395,
+                  "calories":1860.465116
+               },
+               "name":"Tater Tots",
+               "food_id":"647163c2684acdee",
+               "group":"Potato"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 potato (3\" to 4-1/4\" dia)",
+                     "servingWeight":0.369
+                  },
+                  {
+                     "unit":"1 potato (2-1/4\" to 3-1/4\" dia)",
+                     "servingWeight":0.213
+                  },
+                  {
+                     "unit":"1 potato (1-3/4\" to 2-1/2\" dia)",
+                     "servingWeight":0.17
+                  },
+                  {
+                     "unit":"0.5 cup, diced",
+                     "servingWeight":0.075
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.1747,
+                  "totalFat":8.999999999999999E-4,
+                  "protein":0.0202,
+                  "calories":770
+               },
+               "name":"Potato (any kind)",
+               "food_id":"3f3cda6a01759b58",
+               "generic":true,
+               "group":"Potato"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 potato (3\" to 4-1/4\" dia)",
+                     "servingWeight":0.369
+                  },
+                  {
+                     "unit":"1 potato (2-1/4\" to 3-1/4\" dia)",
+                     "servingWeight":0.213
+                  },
+                  {
+                     "unit":"1 potato (1-3/4\" to 2-1/2\" dia)",
+                     "servingWeight":0.17
+                  },
+                  {
+                     "unit":"0.5 cup, diced",
+                     "servingWeight":0.075
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.1747,
+                  "totalFat":8.999999999999999E-4,
+                  "protein":0.0202,
+                  "calories":770
+               },
+               "name":"Potato, Raw",
+               "food_id":"b678372b22398393",
+               "generic":true,
+               "group":"Potato"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.156
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.2,
+                  "protein":0.02,
+                  "calories":870
+               },
+               "name":"Potato, Steamed",
+               "food_id":"b9a029b88705dd72",
+               "generic":true,
+               "group":"Potato"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.156
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.2,
+                  "protein":0.02,
+                  "calories":870
+               },
+               "name":"Potato, Mashed",
+               "food_id":"c8834bc69dc49cc1",
+               "generic":true,
+               "group":"Potato"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 large",
+                     "servingWeight":0.299
+                  },
+                  {
+                     "unit":"1 medium",
+                     "servingWeight":0.173
+                  },
+                  {
+                     "unit":"1 small",
+                     "servingWeight":0.138
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.2053,
+                  "totalFat":0.022,
+                  "protein":0.024300000000000002,
+                  "calories":1090
+               },
+               "name":"Potato, Baked (skin eaten)",
+               "food_id":"f7cd84a4e59a4685",
+               "generic":true,
+               "group":"Potato"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.19440000000000002
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.2205,
+                  "totalFat":0.0325,
+                  "protein":0.0241,
+                  "calories":1250
+               },
+               "name":"Potato, Fried",
+               "food_id":"0dbe108e661984ad",
+               "generic":true,
+               "group":"Potato"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.1268456376
+                  },
+                  {
+                     "unit":"1 small",
+                     "servingWeight":0.1100671141
+                  },
+                  {
+                     "unit":"1 medium",
+                     "servingWeight":0.1362416107
+                  },
+                  {
+                     "unit":"1 large",
+                     "servingWeight":0.2322147651
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.206,
+                  "totalFat":0.07,
+                  "protein":0.0232,
+                  "calories":1490
+               },
+               "name":"Potato, Roasted",
+               "food_id":"e51cacd481a8e192",
+               "generic":true,
+               "group":"Potato"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.127173913
+                  },
+                  {
+                     "unit":"1 small",
+                     "servingWeight":0.1054347826
+                  },
+                  {
+                     "unit":"1 medium",
+                     "servingWeight":0.13152173909999998
+                  },
+                  {
+                     "unit":"1 large",
+                     "servingWeight":0.227173913
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.2139,
+                  "totalFat":0.001,
+                  "protein":0.0195,
+                  "calories":920
+               },
+               "name":"Potato, Baked (skin not eaten)",
+               "food_id":"d34f3bfb521610b4",
+               "generic":true,
+               "group":"Potato"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.245
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.10779999999999999,
+                  "totalFat":0.036800000000000006,
+                  "protein":0.028700000000000003,
+                  "calories":880
+               },
+               "name":"Potato (scalloped)",
+               "food_id":"4d0100c036eb347d",
+               "generic":true,
+               "group":"Potato"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 large",
+                     "servingWeight":0.299
+                  },
+                  {
+                     "unit":"1 medium",
+                     "servingWeight":0.173
+                  },
+                  {
+                     "unit":"1 small",
+                     "servingWeight":0.138
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.195486574,
+                  "totalFat":0.05960769377,
+                  "protein":0.02351932965,
+                  "calories":1380.6893919999998
+               },
+               "name":"Potato, Cooked (w/ butter)",
+               "food_id":"a5620bf25d567f8d",
+               "generic":true,
+               "group":"Potato"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 large",
+                     "servingWeight":0.299
+                  },
+                  {
+                     "unit":"1 medium",
+                     "servingWeight":0.173
+                  },
+                  {
+                     "unit":"1 small",
+                     "servingWeight":0.138
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.2053,
+                  "totalFat":0.022,
+                  "protein":0.024300000000000002,
+                  "calories":1090
+               },
+               "name":"Potato, Cooked (w/o butter)",
+               "food_id":"06b473c28c2c8ae1",
+               "generic":true,
+               "group":"Potato"
+            }
+         ],
+         "group":"Potato"
+      },
+      {
+         "items":[
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 serving"
+                  }
+               ],
+               "score":62,
+               "nutrition":{
+                  "totalCarbs":0.036,
+                  "totalFat":0.0050999999999999995,
+                  "protein":0.0088,
+                  "calories":236
+               },
+               "name":"Muthiya",
+               "food_id":"327a86db76c6e356",
+               "group":"Dumpling"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 dumpling",
+                     "servingWeight":0.028
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.25010000000000004,
+                  "totalFat":0.09980000000000001,
+                  "protein":0.15180000000000002,
+                  "calories":2560
+               },
+               "name":"Dumpling (any kind)",
+               "food_id":"4165c5579d32c1e9",
+               "generic":true,
+               "group":"Dumpling"
+            }
+         ],
+         "group":"Dumpling"
+      },
+      {
+         "items":[
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cake",
+                     "servingWeight":0.16
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":60,
+               "nutrition":{
+                  "totalCarbs":0.271,
+                  "totalFat":0.132,
+                  "protein":0.107,
+                  "calories":2690
+               },
+               "name":"Clam Cake",
+               "food_id":"e09f72005561775e",
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 piece"
+                  }
+               ],
+               "score":57,
+               "nutrition":{
+                  "totalCarbs":0.01,
+                  "totalFat":0.0055,
+                  "protein":0.002,
+                  "calories":80
+               },
+               "name":"Tomatokeftedes",
+               "food_id":"14bcb16f844f198b",
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 piece"
+                  }
+               ],
+               "score":52,
+               "nutrition":{
+                  "totalCarbs":0.016,
+                  "totalFat":0.018,
+                  "protein":0.006,
+                  "calories":240
+               },
+               "name":"Palak Vada",
+               "food_id":"f37dfd95f1f0ea2b",
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 piece"
+                  }
+               ],
+               "score":51,
+               "nutrition":{
+                  "totalCarbs":0.046,
+                  "totalFat":0.0197,
+                  "protein":0.0075,
+                  "calories":385
+               },
+               "name":"Daal Puri",
+               "food_id":"917f4d688ab736de",
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 piece"
+                  }
+               ],
+               "score":50,
+               "nutrition":{
+                  "totalCarbs":0.011,
+                  "totalFat":0.008,
+                  "protein":0.002,
+                  "calories":121
+               },
+               "name":"Sukhiyan",
+               "food_id":"0ad905186d8cec68",
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 piece",
+                     "servingWeight":0.12
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":46,
+               "nutrition":{
+                  "totalCarbs":0.1541666667,
+                  "totalFat":0.01166666667,
+                  "protein":0.04,
+                  "calories":833.3333333
+               },
+               "name":"Masala Vada",
+               "food_id":"309c9dc210a01fb2",
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 piece",
+                     "servingWeight":0.1167
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":45,
+               "nutrition":{
+                  "totalCarbs":0.2767780634,
+                  "totalFat":0.09425878320000002,
+                  "protein":0.04541559554,
+                  "calories":2125.107112
+               },
+               "name":"Pakora",
+               "food_id":"232c6623a593567b",
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 piece",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":44,
+               "nutrition":{
+                  "totalCarbs":0.166,
+                  "totalFat":0.191,
+                  "protein":0.105,
+                  "calories":2820
+               },
+               "name":"Farçous",
+               "food_id":"e5b1755d49c14a04",
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 patty (approx 2-1/4\" dia)",
+                     "servingWeight":0.017
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":42,
+               "nutrition":{
+                  "totalCarbs":0.31839999999999996,
+                  "totalFat":0.178,
+                  "protein":0.1331,
+                  "calories":3330
+               },
+               "name":"Falafel",
+               "food_id":"5c665439d1d6ec4e",
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 fritter"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.015,
+                  "totalFat":0.015,
+                  "protein":0.008,
+                  "calories":221
+               },
+               "name":"Fritter (any kind)",
+               "food_id":"7097f9e087f900ef",
+               "generic":true,
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 fritter"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.017,
+                  "totalFat":0.006,
+                  "protein":0.004,
+                  "calories":135
+               },
+               "name":"Fritter (vegetable)",
+               "food_id":"3652ab3310199833",
+               "generic":true,
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 fritter"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.008,
+                  "totalFat":0.009,
+                  "protein":0.007,
+                  "calories":160
+               },
+               "name":"Fritter (meat)",
+               "food_id":"d8b243b6f1a8b3c4",
+               "generic":true,
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 fritter"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.049,
+                  "totalFat":0.011,
+                  "protein":0.004,
+                  "calories":300
+               },
+               "name":"Fritter (w/ sugar)",
+               "food_id":"24a917ae5a8ae7b7",
+               "generic":true,
+               "group":"Fritter"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 fritter",
+                     "servingWeight":0.119
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.47058823529999994,
+                  "totalFat":0.1932773109,
+                  "protein":0.05882352941,
+                  "calories":3865.546218
+               },
+               "name":"Fritter (w/ fruit)",
+               "food_id":"d4501fbe33d2ecec",
+               "generic":true,
+               "group":"Fritter"
+            }
+         ],
+         "group":"Fritter"
+      },
+      {
+         "items":[
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 serving",
+                     "servingWeight":0.116
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":58,
+               "nutrition":{
+                  "totalCarbs":0.075,
+                  "totalFat":0.032758620690000004,
+                  "protein":0.0275862069,
+                  "calories":655.1724138
+               },
+               "name":"Broccoli Bajji",
+               "food_id":"038607c3b7ccdc3c",
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup, chopped",
+                     "servingWeight":0.091
+                  },
+                  {
+                     "unit":"1 spear (about 5\" long)",
+                     "servingWeight":0.031
+                  },
+                  {
+                     "unit":"1 bunch",
+                     "servingWeight":0.608
+                  },
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.088
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.07,
+                  "protein":0.03,
+                  "calories":340
+               },
+               "name":"Broccoli (any kind)",
+               "food_id":"9b83ff01e214de6a",
+               "generic":true,
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.156
+                  },
+                  {
+                     "unit":"1 stalk (11\"-12\" long)",
+                     "servingWeight":0.28
+                  },
+                  {
+                     "unit":"1 stalk (7-1/2\" - 8\" long)",
+                     "servingWeight":0.18
+                  },
+                  {
+                     "unit":"1 stalk (5\" long)",
+                     "servingWeight":0.14
+                  },
+                  {
+                     "unit":"1 spear (5\" long)",
+                     "servingWeight":0.037
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.0718,
+                  "totalFat":0.0040999999999999995,
+                  "protein":0.023799999999999998,
+                  "calories":350
+               },
+               "name":"Broccoli, Cooked ",
+               "food_id":"95769472c5db3118",
+               "generic":true,
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.164
+                  },
+                  {
+                     "unit":"1 stalk (11\"-12\" long)",
+                     "servingWeight":0.28
+                  },
+                  {
+                     "unit":"1 stalk (7-1/2\" - 8\" long)",
+                     "servingWeight":0.18
+                  },
+                  {
+                     "unit":"1 stalk (5\" long)",
+                     "servingWeight":0.14
+                  },
+                  {
+                     "unit":"1 spear (5\" long)",
+                     "servingWeight":0.037
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.06869177489,
+                  "totalFat":0.04697445887,
+                  "protein":0.022769696970000003,
+                  "calories":717.5324675
+               },
+               "name":"Broccoli, Cooked (w/ oil)",
+               "food_id":"a37f566a8c5a47bc",
+               "generic":true,
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.091
+                  },
+                  {
+                     "unit":"1 stalk",
+                     "servingWeight":0.031
+                  },
+                  {
+                     "unit":"1 bunch",
+                     "servingWeight":0.608
+                  },
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.088
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.07,
+                  "protein":0.03,
+                  "calories":340
+               },
+               "name":"Broccoli, Raw",
+               "food_id":"7dbf8c1812007058",
+               "generic":true,
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.156
+                  },
+                  {
+                     "unit":"1 stalk (11\"-12\" long)",
+                     "servingWeight":0.28
+                  },
+                  {
+                     "unit":"1 stalk (7-1/2\" - 8\" long)",
+                     "servingWeight":0.18
+                  },
+                  {
+                     "unit":"1 stalk (5\" long)",
+                     "servingWeight":0.14
+                  },
+                  {
+                     "unit":"1 spear (5\" long)",
+                     "servingWeight":0.037
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.0718,
+                  "totalFat":0.0040999999999999995,
+                  "protein":0.023799999999999998,
+                  "calories":350
+               },
+               "name":"Broccoli, Steamed",
+               "food_id":"c98aa1337ab0ac99",
+               "generic":true,
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.156
+                  },
+                  {
+                     "unit":"1 stalk (11\"-12\" long)",
+                     "servingWeight":0.28
+                  },
+                  {
+                     "unit":"1 stalk (7-1/2\" - 8\" long)",
+                     "servingWeight":0.18
+                  },
+                  {
+                     "unit":"1 stalk (5\" long)",
+                     "servingWeight":0.14
+                  },
+                  {
+                     "unit":"1 spear (5\" long)",
+                     "servingWeight":0.037
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.0718,
+                  "totalFat":0.0040999999999999995,
+                  "protein":0.023799999999999998,
+                  "calories":350
+               },
+               "name":"Broccoli, Broiled",
+               "food_id":"47429540080a2e8d",
+               "generic":true,
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.156
+                  },
+                  {
+                     "unit":"1 stalk (11\"-12\" long)",
+                     "servingWeight":0.28
+                  },
+                  {
+                     "unit":"1 stalk (7-1/2\" - 8\" long)",
+                     "servingWeight":0.18
+                  },
+                  {
+                     "unit":"1 stalk (5\" long)",
+                     "servingWeight":0.14
+                  },
+                  {
+                     "unit":"1 spear (5\" long)",
+                     "servingWeight":0.037
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.0718,
+                  "totalFat":0.0040999999999999995,
+                  "protein":0.023799999999999998,
+                  "calories":350
+               },
+               "name":"Broccoli, Boiled",
+               "food_id":"d6e0c4859ed4a02d",
+               "generic":true,
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.156
+                  },
+                  {
+                     "unit":"1 stalk (11\"-12\" long)",
+                     "servingWeight":0.28
+                  },
+                  {
+                     "unit":"1 stalk (7-1/2\" - 8\" long)",
+                     "servingWeight":0.18
+                  },
+                  {
+                     "unit":"1 stalk (5\" long)",
+                     "servingWeight":0.14
+                  },
+                  {
+                     "unit":"1 spear (5\" long)",
+                     "servingWeight":0.037
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.06869177489,
+                  "totalFat":0.04697445887,
+                  "protein":0.022769696970000003,
+                  "calories":717.5324675
+               },
+               "name":"Broccoli, Baked",
+               "food_id":"66b42a6d5ad1eb34",
+               "generic":true,
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.176
+                  },
+                  {
+                     "unit":"1 stalk (11\"-12\" long)",
+                     "servingWeight":0.28
+                  },
+                  {
+                     "unit":"1 stalk (7-1/2\" - 8\" long)",
+                     "servingWeight":0.18
+                  },
+                  {
+                     "unit":"1 stalk (5\" long)",
+                     "servingWeight":0.14
+                  },
+                  {
+                     "unit":"1 spear (5\" long)",
+                     "servingWeight":0.037
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.13478738429999998,
+                  "totalFat":0.1169778754,
+                  "protein":0.034363721949999995,
+                  "calories":1647.57571
+               },
+               "name":"Broccoli, Fried",
+               "food_id":"54113445b08e1886",
+               "generic":true,
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.16
+                  },
+                  {
+                     "unit":"1 stalk (11\"-12\" long)",
+                     "servingWeight":0.28
+                  },
+                  {
+                     "unit":"1 stalk (7-1/2\" - 8\" long)",
+                     "servingWeight":0.18
+                  },
+                  {
+                     "unit":"1 stalk (5\" long)",
+                     "servingWeight":0.14
+                  },
+                  {
+                     "unit":"1 spear (5\" long)",
+                     "servingWeight":0.037
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.06869177489,
+                  "totalFat":0.04697445887,
+                  "protein":0.022769696970000003,
+                  "calories":717.5324675
+               },
+               "name":"Broccoli, Sauteed",
+               "food_id":"4e6b93b0defc4e80",
+               "generic":true,
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.16
+                  },
+                  {
+                     "unit":"1 stalk (11\"-12\" long)",
+                     "servingWeight":0.28
+                  },
+                  {
+                     "unit":"1 stalk (7-1/2\" - 8\" long)",
+                     "servingWeight":0.18
+                  },
+                  {
+                     "unit":"1 stalk (5\" long)",
+                     "servingWeight":0.14
+                  },
+                  {
+                     "unit":"1 spear (5\" long)",
+                     "servingWeight":0.037
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.06869177489,
+                  "totalFat":0.04697445887,
+                  "protein":0.022769696970000003,
+                  "calories":717.5324675
+               },
+               "name":"Broccoli, Stir Fried",
+               "food_id":"697be06c85e645da",
+               "generic":true,
+               "group":"Broccoli"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.212
+                  },
+                  {
+                     "unit":"1 stalk (11\"-12\" long)",
+                     "servingWeight":0.28
+                  },
+                  {
+                     "unit":"1 stalk (7-1/2\" - 8\" long)",
+                     "servingWeight":0.18
+                  },
+                  {
+                     "unit":"1 stalk (5\" long)",
+                     "servingWeight":0.14
+                  },
+                  {
+                     "unit":"1 spear (5\" long)",
+                     "servingWeight":0.037
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.07042944785000001,
+                  "totalFat":0.05159509202,
+                  "protein":0.040368098160000004,
+                  "calories":889.5705521
+               },
+               "name":"Broccoli, Cooked (w/ cheese)",
+               "food_id":"d50e81f9da649446",
+               "generic":true,
+               "group":"Broccoli"
+            }
+         ],
+         "group":"Broccoli"
+      },
+      {
+         "items":[
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 piece",
+                     "servingWeight":0.051
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":54,
+               "nutrition":{
+                  "totalCarbs":0.1686,
+                  "totalFat":0.0472,
+                  "protein":0.0415,
+                  "calories":1270
+               },
+               "name":"Croquettes",
+               "food_id":"9a0f62738576231b",
+               "group":"Cutlet"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cutlet",
+                     "servingWeight":0.045
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.1333333333,
+                  "totalFat":0.17777777780000004,
+                  "protein":0.2,
+                  "calories":3066.666667
+               },
+               "name":"Cutlet (any kind)",
+               "food_id":"7f1ff5c7482d3d50",
+               "generic":true,
+               "group":"Cutlet"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cutlet",
+                     "servingWeight":0.045
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.1333333333,
+                  "totalFat":0.17777777780000004,
+                  "protein":0.2,
+                  "calories":3066.666667
+               },
+               "name":"Cutlet (chicken)",
+               "food_id":"6f1b389a8ed5540c",
+               "generic":true,
+               "group":"Cutlet"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 small",
+                     "servingWeight":0.13508
+                  },
+                  {
+                     "unit":"1 medium",
+                     "servingWeight":0.15887
+                  },
+                  {
+                     "unit":"1 large",
+                     "servingWeight":0.19597
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.1425,
+                  "protein":0.28,
+                  "calories":2480
+               },
+               "name":"Cutlet (pork)",
+               "food_id":"8c39dfaae00abbee",
+               "generic":true,
+               "group":"Cutlet"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 small"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.023,
+                  "totalFat":0.0072,
+                  "protein":0.0099,
+                  "calories":196
+               },
+               "name":"Cutlet (beef)",
+               "food_id":"2f4adedc1ddbf312",
+               "generic":true,
+               "group":"Cutlet"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cutlet"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.012,
+                  "totalFat":0.008,
+                  "protein":0.002,
+                  "calories":120
+               },
+               "name":"Cutlet (vegetarian)",
+               "food_id":"888c43d6ac6ee1c9",
+               "generic":true,
+               "group":"Cutlet"
+            }
+         ],
+         "group":"Cutlet"
+      },
+      {
+         "items":[
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 serving"
+                  }
+               ],
+               "score":53,
+               "nutrition":{
+                  "totalCarbs":0.011,
+                  "totalFat":0.034,
+                  "protein":0.033,
+                  "calories":468
+               },
+               "name":"Shikampur Kebab",
+               "food_id":"9c2a66032eda92a4",
+               "group":"Kebab"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 serving",
+                     "servingWeight":0.0595
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":45,
+               "nutrition":{
+                  "totalCarbs":0.512605042,
+                  "totalFat":0.05042016807,
+                  "protein":0.23,
+                  "calories":3361.3445380000003
+               },
+               "name":"Hariyali Kebab",
+               "food_id":"1e3094d0f6349e4e",
+               "group":"Kebab"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 kebab",
+                     "servingWeight":0.38993
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.1977,
+                  "totalFat":0.042699999999999995,
+                  "protein":0.0971,
+                  "calories":1590
+               },
+               "name":"Kebab (any kind)",
+               "food_id":"8554acedf09b08fe",
+               "generic":true,
+               "group":"Kebab"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 kebab"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.0155,
+                  "totalFat":0.005,
+                  "protein":0.003,
+                  "calories":118
+               },
+               "name":"Kebab (vegetable)",
+               "food_id":"9d2d991613266f63",
+               "generic":true,
+               "group":"Kebab"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 kebab"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.0057,
+                  "totalFat":0.0036,
+                  "protein":0.0208,
+                  "calories":142
+               },
+               "name":"Kebeb (shrimp)",
+               "food_id":"548dd9c5d570f488",
+               "generic":true,
+               "group":"Kebab"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 kebab",
+                     "servingWeight":0.39047000000000004
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.20289999999999997,
+                  "totalFat":0.0269,
+                  "protein":0.09789999999999999,
+                  "calories":1470
+               },
+               "name":"Kebab (lamb)",
+               "food_id":"e51aae0501bb07e1",
+               "generic":true,
+               "group":"Kebab"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 kebab",
+                     "servingWeight":0.08
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.0125,
+                  "totalFat":0.075,
+                  "protein":0.2,
+                  "calories":1500
+               },
+               "name":"Kebab (beef)",
+               "food_id":"d9df43e5cb88b502",
+               "generic":true,
+               "group":"Kebab"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 kebab",
+                     "servingWeight":0.38477
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.19829999999999998,
+                  "totalFat":0.0367,
+                  "protein":0.09090000000000001,
+                  "calories":1510
+               },
+               "name":"Kebab (chicken)",
+               "food_id":"f3e8e98b0174f7a9",
+               "generic":true,
+               "group":"Kebab"
+            }
+         ],
+         "group":"Kebab"
+      },
+      {
+         "items":[
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 nugget"
+                  }
+               ],
+               "score":51,
+               "nutrition":{
+                  "totalCarbs":0.003,
+                  "totalFat":0.002,
+                  "protein":0.002,
+                  "calories":40
+               },
+               "name":"Chicken Nugget",
+               "food_id":"7834328564632102",
+               "group":"Fried Chicken"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 serving",
+                     "servingWeight":0.235
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":50,
+               "nutrition":{
+                  "totalCarbs":0.09361702127999999,
+                  "totalFat":0.05,
+                  "protein":0.19,
+                  "calories":1617.021277
+               },
+               "name":"Chicken Pakoda",
+               "food_id":"aeee2e00b873c0b9",
+               "group":"Fried Chicken"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.219375
+                  },
+                  {
+                     "unit":"1 small piece",
+                     "servingWeight":0.03192307692
+                  },
+                  {
+                     "unit":"1 medium piece",
+                     "servingWeight":0.06192307692
+                  },
+                  {
+                     "unit":"1 large piece",
+                     "servingWeight":0.09807692308
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.1535,
+                  "protein":0.2862,
+                  "calories":2600
+               },
+               "name":"Fried Chicken (any kind)",
+               "food_id":"b842f782411f2d67",
+               "generic":true,
+               "group":"Fried Chicken"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 breast",
+                     "servingWeight":0.1958333333
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.091,
+                  "protein":0.31670000000000004,
+                  "calories":2160
+               },
+               "name":"Fried Chicken (breast)",
+               "food_id":"820debb6facbc0c0",
+               "generic":true,
+               "group":"Fried Chicken"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 thigh, with skin",
+                     "servingWeight":0.135
+                  },
+                  {
+                     "unit":"1 thigh, without skin",
+                     "servingWeight":0.086
+                  },
+                  {
+                     "unit":"1 thigh, bone and skin removed",
+                     "servingWeight":0.06
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.08460000000000001,
+                  "totalFat":0.1773,
+                  "protein":0.189,
+                  "calories":2690
+               },
+               "name":"Fried Chicken (thigh)",
+               "food_id":"8bc0828eb3bd51c8",
+               "generic":true,
+               "group":"Fried Chicken"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 drumstick, with skin",
+                     "servingWeight":0.075
+                  },
+                  {
+                     "unit":"1 drumstick, without skin",
+                     "servingWeight":0.057
+                  },
+                  {
+                     "unit":"1 drumstick, bone and skin removed",
+                     "servingWeight":0.04
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.053899999999999997,
+                  "totalFat":0.14220000000000002,
+                  "protein":0.223,
+                  "calories":2390
+               },
+               "name":"Fried Chicken (drumstick)",
+               "food_id":"7d9e357e688b62c2",
+               "generic":true,
+               "group":"Fried Chicken"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 wing",
+                     "servingWeight":0.076
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.1104,
+                  "totalFat":0.218,
+                  "protein":0.2011,
+                  "calories":3260
+               },
+               "name":"Fried Chicken (wing)",
+               "food_id":"34deb8425573e1d5",
+               "generic":true,
+               "group":"Fried Chicken"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 breast",
+                     "servingWeight":0.1717391304
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.0466,
+                  "protein":0.33340000000000003,
+                  "calories":1840
+               },
+               "name":"Fried Chicken (breast, no skin eaten)",
+               "food_id":"f26a41ee0dd9685b",
+               "generic":true,
+               "group":"Fried Chicken"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 thigh",
+                     "servingWeight":0.05186915888
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.10490000000000001,
+                  "protein":0.282,
+                  "calories":2140
+               },
+               "name":"Fried Chicken (thigh, no skin eaten)",
+               "food_id":"59c968ba6d37dfac",
+               "generic":true,
+               "group":"Fried Chicken"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 drumstick",
+                     "servingWeight":0.04205128205
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.0792,
+                  "protein":0.2903,
+                  "calories":1950
+               },
+               "name":"Fried Chicken (drumstick, no skin eaten)",
+               "food_id":"7caa08247a0a64db",
+               "generic":true,
+               "group":"Fried Chicken"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 wing",
+                     "servingWeight":0.02018779343
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.0915,
+                  "protein":0.3073,
+                  "calories":2130
+               },
+               "name":"Fried Chicken (wing, no skin eaten)",
+               "food_id":"02f0e59470efe695",
+               "generic":true,
+               "group":"Fried Chicken"
+            }
+         ],
+         "group":"Fried Chicken"
+      },
+      {
+         "items":[
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 serving"
+                  }
+               ],
+               "score":47,
+               "nutrition":{
+                  "totalCarbs":0.0325,
+                  "totalFat":0.0264,
+                  "protein":0.0065,
+                  "calories":397.3
+               },
+               "name":"Amritsari Fish",
+               "food_id":"5d97475d689ca11b",
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.13618
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":42,
+               "nutrition":{
+                  "totalCarbs":0.06709999999999999,
+                  "totalFat":0.1137,
+                  "protein":0.1672,
+                  "calories":1990
+               },
+               "name":"Kibbeling",
+               "food_id":"51ca7d50c9499d7b",
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 fillet (6-1/4\" x 3\" x 3/8\")",
+                     "servingWeight":0.11339
+                  },
+                  {
+                     "unit":"1 cubic inch, boneless",
+                     "servingWeight":0.01696
+                  },
+                  {
+                     "unit":"1 cup, flaked",
+                     "servingWeight":0.13571
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.012199999999999999,
+                  "protein":0.233,
+                  "calories":1120
+               },
+               "name":"Fish, Cooked",
+               "food_id":"5122891a0d3b2d5f",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 fillet (6-1/4\" x 3\" x 3/8\")",
+                     "servingWeight":0.115
+                  },
+                  {
+                     "unit":"1 cubic inch, boneless",
+                     "servingWeight":0.01727
+                  },
+                  {
+                     "unit":"1 cup, flaked",
+                     "servingWeight":0.13597
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.032799999999999996,
+                  "protein":0.29760000000000003,
+                  "calories":1570
+               },
+               "name":"Fish, Steamed",
+               "food_id":"eead8fcd479a169b",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 fillet (6-1/4\" x 3-1/2\" x 3/8\")",
+                     "servingWeight":0.13416999999999998
+                  },
+                  {
+                     "unit":"1 cubic inch, boneless",
+                     "servingWeight":0.024460000000000003
+                  },
+                  {
+                     "unit":"1 cup, flaked",
+                     "servingWeight":0.19496
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.06709999999999999,
+                  "totalFat":0.1137,
+                  "protein":0.1672,
+                  "calories":1990
+               },
+               "name":"Fish, Fried",
+               "food_id":"019d4f85b1b2b448",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cubic inch, boneless",
+                     "servingWeight":0.017
+                  },
+                  {
+                     "unit":"1 cup, flaked",
+                     "servingWeight":0.13577
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.0645,
+                  "protein":0.25489999999999996,
+                  "calories":1670
+               },
+               "name":"Fish, Smoked",
+               "food_id":"b80f8fda07c5118f",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 oz, boneless",
+                     "servingWeight":0.02828
+                  },
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.042
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.023700000000000002,
+                  "protein":0.6282000000000001,
+                  "calories":2900
+               },
+               "name":"Fish, Dried",
+               "food_id":"5c7974d2f861bd49",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 oz, boneless",
+                     "servingWeight":0.02857
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalFat":0.009200000000000002,
+                  "protein":0.17760000000000004,
+                  "calories":840
+               },
+               "name":"Fish, Raw",
+               "food_id":"8921fc9d90ef4c89",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 fillet (6-1/4\" x 3\" x 3/8\")",
+                     "servingWeight":0.11270000000000001
+                  },
+                  {
+                     "unit":"1 cubic inch, boneless",
+                     "servingWeight":0.01667
+                  },
+                  {
+                     "unit":"1 cup, flaked",
+                     "servingWeight":0.13571
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.0033000000000000004,
+                  "totalFat":0.0344,
+                  "protein":0.2194,
+                  "calories":1260
+               },
+               "name":"Fish, Baked Or Broiled",
+               "food_id":"d616643fb8a45f81",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 fillet (6-1/4\" x 3\" x 3/8\")",
+                     "servingWeight":0.11284000000000001
+                  },
+                  {
+                     "unit":"1 cubic inch, boneless",
+                     "servingWeight":0.01743
+                  },
+                  {
+                     "unit":"1 cup, flaked",
+                     "servingWeight":0.13578
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.0028000000000000004,
+                  "totalFat":0.0118,
+                  "protein":0.226,
+                  "calories":1090
+               },
+               "name":"Fish. Grilled",
+               "food_id":"38aad86404d48b77",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 stick",
+                     "servingWeight":0.01687
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.0825,
+                  "totalFat":0.11170000000000001,
+                  "protein":0.2066,
+                  "calories":2210
+               },
+               "name":"Fish, Stick",
+               "food_id":"bc9645feeadd8e55",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 ball",
+                     "servingWeight":0.028
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.1172,
+                  "totalFat":0.0123,
+                  "protein":0.1127,
+                  "calories":1070
+               },
+               "name":"Fish, Ball",
+               "food_id":"c34222b5989d02e9",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 patty",
+                     "servingWeight":0.057
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.21180000000000002,
+                  "totalFat":0.1325,
+                  "protein":0.1104,
+                  "calories":2490
+               },
+               "name":"Fish Patty",
+               "food_id":"f7055a778f40b034",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"3 oz",
+                     "servingWeight":0.084
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.04,
+                  "totalFat":0.12,
+                  "protein":0.16,
+                  "calories":2000
+               },
+               "name":"Spicy Tuna",
+               "food_id":"08d932b2b65121e4",
+               "generic":true,
+               "group":"Fish"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"2 pieces and chips",
+                     "servingWeight":0.3
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.21710000000000002,
+                  "totalFat":0.1405,
+                  "protein":0.1003,
+                  "calories":2550
+               },
+               "name":"Fish and Chips",
+               "food_id":"ab275d5bace30b4e",
+               "generic":true,
+               "group":"Fish"
+            }
+         ],
+         "group":"Fish"
+      },
+      {
+         "items":[
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cookie"
+                  }
+               ],
+               "score":44,
+               "nutrition":{
+                  "totalCarbs":0.016,
+                  "totalFat":0.009800000000000001,
+                  "protein":0.0018,
+                  "calories":156
+               },
+               "name":"Fried Oreo",
+               "food_id":"6068f301b0a4cb06",
+               "group":"Cookie"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 small",
+                     "servingWeight":0.0049299999999999995
+                  },
+                  {
+                     "unit":"1 medium",
+                     "servingWeight":0.01008
+                  },
+                  {
+                     "unit":"1 large",
+                     "servingWeight":0.01399
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.6897000000000001,
+                  "totalFat":0.2139,
+                  "protein":0.054200000000000005,
+                  "calories":4860
+               },
+               "name":"Cookie (any kind)",
+               "food_id":"a63808f9fbfd1b58",
+               "generic":true,
+               "group":"Cookie"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cookie",
+                     "servingWeight":0.01506
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.679,
+                  "totalFat":0.211,
+                  "protein":0.051,
+                  "calories":4780
+               },
+               "name":"Cookie (sugar)",
+               "food_id":"9470cb6bc13aa636",
+               "generic":true,
+               "group":"Cookie"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 small",
+                     "servingWeight":0.0069500000000000004
+                  },
+                  {
+                     "unit":"1 medium (approx 2\" dia)",
+                     "servingWeight":0.01002
+                  },
+                  {
+                     "unit":"1 large",
+                     "servingWeight":0.013900000000000001
+                  },
+                  {
+                     "unit":"1 very large (3-1/2 - 4\" dia)",
+                     "servingWeight":0.04279
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.6406000000000001,
+                  "totalFat":0.24730000000000002,
+                  "protein":0.055,
+                  "calories":4890
+               },
+               "name":"Cookie (chocolate chip)",
+               "food_id":"24ce40d788dc14a8",
+               "generic":true,
+               "group":"Cookie"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cookie"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.023,
+                  "totalFat":0.008,
+                  "calories":170
+               },
+               "name":"Cookie (double chocolate)",
+               "food_id":"c076d145aaadda9a",
+               "generic":true,
+               "group":"Cookie"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 small",
+                     "servingWeight":0.006030000000000001
+                  },
+                  {
+                     "unit":"1 medium (2-5/8\" dia)",
+                     "servingWeight":0.01293
+                  },
+                  {
+                     "unit":"1 large",
+                     "servingWeight":0.0181
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.6874,
+                  "totalFat":0.19030000000000002,
+                  "protein":0.0536,
+                  "calories":4640
+               },
+               "name":"Cookie (oatmeal)",
+               "food_id":"3cab8a00191b2c4d",
+               "generic":true,
+               "group":"Cookie"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cookie (2-5/8\" dia)",
+                     "servingWeight":0.01494
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.684,
+                  "totalFat":0.162,
+                  "protein":0.065,
+                  "calories":4350
+               },
+               "name":"Cookie (oatmeal raisin)",
+               "food_id":"d974685129fb324f",
+               "generic":true,
+               "group":"Cookie"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cookie",
+                     "servingWeight":0.00797
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.645,
+                  "totalFat":0.241,
+                  "protein":0.061,
+                  "calories":5020
+               },
+               "name":"Cookie (shortbread)",
+               "food_id":"de46ad10c4624ada",
+               "generic":true,
+               "group":"Cookie"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cookie",
+                     "servingWeight":0.00697
+                  },
+                  {
+                     "unit":"1 large (3-1/2\" to 4\" dia)",
+                     "servingWeight":0.03197
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.769,
+                  "totalFat":0.098,
+                  "protein":0.056,
+                  "calories":4160
+               },
+               "name":"Cookie (gingersnap)",
+               "food_id":"8843ea58e5b1314e",
+               "generic":true,
+               "group":"Cookie"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cookie",
+                     "servingWeight":0.01509
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.589,
+                  "totalFat":0.236,
+                  "protein":0.096,
+                  "calories":4770
+               },
+               "name":"Cookie (peanut butter)",
+               "food_id":"6fa8a0800c06bef3",
+               "generic":true,
+               "group":"Cookie"
+            }
+         ],
+         "group":"Cookie"
+      },
+      {
+         "items":[
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 whole",
+                     "servingWeight":0.019
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":42,
+               "nutrition":{
+                  "totalCarbs":0.0679,
+                  "totalFat":0.004900000000000001,
+                  "protein":0.022400000000000003,
+                  "calories":340
+               },
+               "name":"Shiitake Mushroom",
+               "food_id":"931926b1f8bd0cd5",
+               "group":"Mushrooms"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.16
+                  },
+                  {
+                     "unit":"1 tbsp",
+                     "servingWeight":0.01
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.05,
+                  "protein":0.02,
+                  "calories":280
+               },
+               "name":"Mushroom, Cooked (w/ oil)",
+               "food_id":"f3b1eb7cda90bb72",
+               "generic":true,
+               "group":"Mushrooms"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.156
+                  },
+                  {
+                     "unit":"1 tbsp",
+                     "servingWeight":0.01
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.047835497840000005,
+                  "totalFat":0.04305194805,
+                  "protein":0.019134199129999998,
+                  "calories":650.5627706
+               },
+               "name":"Mushroom, Cooked (w/o oil)",
+               "food_id":"b9baf3d307dd812c",
+               "generic":true,
+               "group":"Mushrooms"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.22
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.077,
+                  "totalFat":0.032,
+                  "protein":0.018,
+                  "calories":591
+               },
+               "name":"Mushroom, Fried",
+               "food_id":"8f044c154aa377bb",
+               "generic":true,
+               "group":"Mushrooms"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.175
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.07,
+                  "totalFat":0.07,
+                  "protein":0.06,
+                  "calories":1070
+               },
+               "name":"Mushroom, Stuffed",
+               "food_id":"36f30c0858df0cca",
+               "generic":true,
+               "group":"Mushrooms"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup, sliced",
+                     "servingWeight":0.07
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.03285714286,
+                  "totalFat":0.0028571428599999996,
+                  "protein":0.00309859155,
+                  "calories":228.5714286
+               },
+               "name":"Mushroom, Raw",
+               "food_id":"bf32642d424a297f",
+               "generic":true,
+               "group":"Mushrooms"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup, sliced",
+                     "servingWeight":0.11
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.046538124449999996,
+                  "totalFat":0.050832602979999995,
+                  "protein":0.027667847580000002,
+                  "calories":815.0744960999999
+               },
+               "name":"Mushroom, Creamed",
+               "food_id":"373ac051192928f5",
+               "generic":true,
+               "group":"Mushrooms"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 cup",
+                     "servingWeight":0.156
+                  },
+                  {
+                     "unit":"1 tbsp",
+                     "servingWeight":0.01
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.05,
+                  "protein":0.02,
+                  "calories":280
+               },
+               "name":"Mushroom, Grilled",
+               "food_id":"a7d7396fe4cb3e00",
+               "generic":true,
+               "group":"Mushrooms"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 patty"
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.007,
+                  "totalFat":0.006,
+                  "protein":0.014,
+                  "calories":120
+               },
+               "name":"Mushroom Patty",
+               "food_id":"32d0713ed1a84088",
+               "generic":true,
+               "group":"Mushrooms"
+            }
+         ],
+         "group":"Mushrooms"
+      },
+      {
+         "items":[
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 serving"
+                  }
+               ],
+               "score":40,
+               "nutrition":{
+                  "totalCarbs":0.056,
+                  "totalFat":0.008,
+                  "protein":0.016,
+                  "calories":357
+               },
+               "name":"Goli Bajje",
+               "food_id":"c87545fe0a182ad5",
+               "group":"Pastry"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 pastry",
+                     "servingWeight":0.071
+                  },
+                  {
+                     "unit":"100 g",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.372,
+                  "totalFat":0.219,
+                  "protein":0.08,
+                  "calories":3740
+               },
+               "name":"Pastry (any kind)",
+               "food_id":"389c2b6a067f51f0",
+               "generic":true,
+               "group":"Pastry"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 piece",
+                     "servingWeight":0.119
+                  },
+                  {
+                     "unit":"100 g"
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.1743,
+                  "totalFat":0.1268,
+                  "protein":0.08070000000000001,
+                  "calories":2170
+               },
+               "name":"Pastry (w/ meat)",
+               "food_id":"e04c2f63f175f878",
+               "generic":true,
+               "group":"Pastry"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 pastry",
+                     "servingWeight":0.096
+                  },
+                  {
+                     "unit":"100 g"
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.25739999999999996,
+                  "totalFat":0.24710000000000001,
+                  "protein":0.11460000000000001,
+                  "calories":3730
+               },
+               "name":"Pastry (w/ meat and cheese)",
+               "food_id":"bf8ec7bf2e66f878",
+               "generic":true,
+               "group":"Pastry"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 pastry",
+                     "servingWeight":0.071
+                  },
+                  {
+                     "unit":"100 g"
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.48,
+                  "totalFat":0.18,
+                  "protein":0.05,
+                  "calories":3710
+               },
+               "name":"Pastry (w/ fruit)",
+               "food_id":"4680e1976e8951cd",
+               "generic":true,
+               "group":"Pastry"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 pastry",
+                     "servingWeight":0.103
+                  },
+                  {
+                     "unit":"100 g"
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.2097,
+                  "totalFat":0.2303,
+                  "protein":0.0661,
+                  "calories":3090
+               },
+               "name":"Pastry (w/ vegetable)",
+               "food_id":"728d727b2fbb2621",
+               "generic":true,
+               "group":"Pastry"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 pastry",
+                     "servingWeight":0.103
+                  },
+                  {
+                     "unit":"100 g"
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.194,
+                  "totalFat":0.2384,
+                  "protein":0.08070000000000001,
+                  "calories":3170
+               },
+               "name":"Pastry (w/ vegetable and cheese)",
+               "food_id":"80f15bc725efa4fe",
+               "generic":true,
+               "group":"Pastry"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 pastry",
+                     "servingWeight":0.011
+                  },
+                  {
+                     "unit":"100 g"
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.457,
+                  "totalFat":0.385,
+                  "protein":0.074,
+                  "calories":5580
+               },
+               "name":"Pastry (any puff)",
+               "food_id":"66ace06f77cd3a62",
+               "generic":true,
+               "group":"Pastry"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 pastry",
+                     "servingWeight":0.07112299465
+                  },
+                  {
+                     "unit":"100 g"
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.372,
+                  "totalFat":0.219,
+                  "protein":0.08,
+                  "calories":3740
+               },
+               "name":"Pastry (puff w/ cream)",
+               "food_id":"ce1745ade6e77a0f",
+               "generic":true,
+               "group":"Pastry"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 pastry",
+                     "servingWeight":0.085
+                  },
+                  {
+                     "unit":"100 g"
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.31589999999999996,
+                  "totalFat":0.12090000000000001,
+                  "protein":0.0953,
+                  "calories":2780
+               },
+               "name":"Pastry (italian)",
+               "food_id":"04c987cf6106476b",
+               "generic":true,
+               "group":"Pastry"
+            },
+            {
+               "servingSizes":[
+                  {
+                     "unit":"1 pastry",
+                     "servingWeight":0.1
+                  },
+                  {
+                     "unit":"100 g"
+                  },
+                  {
+                     "unit":"1 g",
+                     "servingWeight":0.001
+                  },
+                  {
+                     "unit":"1 oz",
+                     "servingWeight":0.0283495
+                  }
+               ],
+               "score":1,
+               "nutrition":{
+                  "totalCarbs":0.5,
+                  "totalFat":0.11,
+                  "protein":0.15,
+                  "calories":3590
+               },
+               "name":"Pastry (asian)",
+               "food_id":"132f81538d897010",
+               "generic":true,
+               "group":"Pastry"
+            }
+         ],
+         "group":"Pastry"
+      }
+   ],
+   "imagecache_id":"imgRecognitionImg_600e75b2f21d4987bb6f4ef8563e0ed6_bc742822e8107cab21a1e4a840cca0a90d866363_jpeg"
+}
