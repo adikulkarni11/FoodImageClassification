@@ -3,4 +3,6 @@
 
 Curated workspace in pursuit of creating a food image classifier that generates accurate nutritional information of provided food images.
 
-https://caiwending.cse.uconn.edu/person/aditya-kulkarni/ 
+Link to Honors Scholar Thesis: https://opencommons.uconn.edu/srhonors_theses/803/
+
+Intelligent & Efficient Systems Laboratory Person Page: https://caiwending.cse.uconn.edu/person/aditya-kulkarni/ 
